@@ -1,1 +1,3 @@
-# nextjs-tutorial
+# nextjs-hello-world
+
+Basic next.js program.
